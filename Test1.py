@@ -1,1 +1,1 @@
-Hi, I'm Susmitha Challa.
+Hi, I'm Susmitha Challa, Master's in Data Science. 
